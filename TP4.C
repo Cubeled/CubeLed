@@ -43,5 +43,4 @@ void loop()
   digitalWrite(6, LOW);
   digitalWrite(2, LOW);
   }
-  
 }
